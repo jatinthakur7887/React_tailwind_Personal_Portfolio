@@ -1,17 +1,71 @@
-<<<<<<< HEAD
-# React + Vite
+🚀 Modern ReactJS + TailwindCSS Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stunning modern portfolio website built using ReactJS and TailwindCSS.
+This portfolio is designed to showcase projects, skills, and personal details in a professional and interactive way.
 
-Currently, two official plugins are available:
+🔗 Live Demo: View Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## Expanding the ESLint configuration
+⚛️ Built with ReactJS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# React_tailwind_Personal_Portfolio
-A modern, responsive personal portfolio built with ReactJS and Tailwind CSS. This portfolio showcases my projects, skills, and experience in a sleek, space-themed design. It features smooth animations, a dark/light mode toggle, and an intuitive layout for an engaging user experience. 
->>>>>>> 4afa2d71f715bfc2b02d4ce2f1ef042126060312
+🎨 Styled using TailwindCSS
+
+🌙 Dark/Light theme toggle
+
+📱 Fully responsive (mobile-first design)
+
+🖼️ Beautiful sections: Hero, About Me, Skills, Projects, Contact, and Footer
+
+🚀 Easy deployment via GitHub Pages
+
+📂 Project Sections
+
+Navbar – Simple, modern navigation bar
+
+Hero Section – Eye-catching introduction with background effects
+
+About Me – Brief introduction about me and my background
+
+Skills Section – Highlight technical skills with styling
+
+Projects Section – Display your best work with previews and links
+
+Contact Section – Easy way for visitors to connect with you
+
+Footer – Minimal and clean
+
+🛠️ Tech Stack
+
+Frontend: React.js, JavaScript (ES6+), JSX
+
+Styling: TailwindCSS
+
+Deployment: GitHub Pages
+
+⚡ Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Start development server
+npm start
+
+4️⃣ Build for production
+npm run build
+
+5️⃣ Deploy to GitHub Pages
+npm run deploy
+
+📸 Preview
+<img width="1894" height="867" alt="project1" src="https://github.com/user-attachments/assets/d86291e0-359e-4d57-8344-8515db55c0c5" />
+
+<img width="1900" height="858" alt="Untitled" src="https://github.com/user-attachments/assets/6ac48e02-6c12-4659-b592-2fc2c8fee8cf" />
+
+👤 **Jatin Thakur**  
+📧 **Jatinthakur7887@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/jatin-thakur-1b1a29157)  
+🐙 [GitHub](https://github.com/jatinthakur7887)  
