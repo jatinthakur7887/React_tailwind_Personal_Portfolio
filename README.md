@@ -42,8 +42,10 @@ Styling: TailwindCSS
 Deployment: GitHub Pages
 
 ⚡ Getting Started
+
 1️⃣ Clone the repository
 git clone https://github.com/jatinthakur7887/React_tailwind_Personal_Portfolio.git
+
 cd React_tailwind_Personal_Portfolio
 
 
