@@ -3,8 +3,6 @@
 A stunning modern portfolio website built using ReactJS and TailwindCSS.
 This portfolio is designed to showcase projects, skills, and personal details in a professional and interactive way.
 
-🔗 Live Demo: View Portfolio
-
 ✨ Features
 
 ⚛️ Built with ReactJS
@@ -45,8 +43,9 @@ Deployment: GitHub Pages
 
 ⚡ Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/jatinthakur7887/React_tailwind_Personal_Portfolio.git
+cd React_tailwind_Personal_Portfolio
+
 
 2️⃣ Install dependencies
 npm install
